@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Pay CLI",
+      "type": "python",
+      "request": "launch",
+      "module": "disbursement_calculator",
+      "cwd": "${workspaceFolder}/python",
+      "args": [
+        "--file-path",
+        "/Users/jle/projects/yc_challenge/sample_data.xlsx"
+      ],
+      "console": "externalTerminal",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  ]
+}
