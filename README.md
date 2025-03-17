@@ -12,7 +12,7 @@ Activate your environment
 linux/mac
 
 ```
-source venv311/bin/activate
+source venv/bin/activate
 ```
 
 windows
@@ -22,6 +22,13 @@ windows
 ```
 
 Clone the repo and cd into it
+
+```
+git clone https://github.com/jtrungle/yc_challenge.git 
+cd yc_challenge
+```
+
+install the package
 
 ```
 pip install .
