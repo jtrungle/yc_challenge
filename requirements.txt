@@ -1,0 +1,6 @@
+pandas
+pandera
+openpyxl
+tabulate
+parameterized
+
